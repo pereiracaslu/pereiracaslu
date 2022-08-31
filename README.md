@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá.+Eu+sou,+Lucas+Pereira.;Tenho+24+anos.;Moro+em+Barueri+-+SP;Desenvolvedor+Java+Full+Stack+Júnior;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá.+Eu+sou+Lucas+Pereira.;Tenho+24+anos.;Moro+em+Barueri+-+SP;Desenvolvedor+Java+Full+Stack+Júnior;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 ##
 <div align="center">
   <a href="https://github.com/pereiracaslu">
